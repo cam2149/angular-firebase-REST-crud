@@ -1,2 +1,4 @@
 "use strict";
-console.log('WORK');
+console.log('WORKS');
+console.log('WORKS');
+console.log('WORKS');
